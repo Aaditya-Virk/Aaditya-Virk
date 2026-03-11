@@ -24,8 +24,6 @@
 - 🚀 **Discovering Entrepreneurship** — Cisco Networking Academy *(Sep 2024)*
 - 🤖 **Machine Learning** — STEM Minds *(Sep 2024)*
 - 🧠 **Introduction to Artificial Intelligence** — STEM Minds *(Sep 2024)*
-- 💬 **Communication Skills** — SHSM Workshop *(Sep 2024)*
-- 🤝 **Customer Service Skills** — SHSM Workshop *(Sep 2024)*
 
 ---
 
