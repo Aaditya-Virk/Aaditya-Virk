@@ -22,6 +22,7 @@
 
 - 🐍 **Python Essentials 1** — Cisco Networking Academy · Python Institute *(Sep 2024)*
 - 🐍 **Python Essentials 2** — Cisco Networking Academy · Python Institute *(Mar 2026)*
+- ⚙️ **C++ Essentials 1** — Cisco Networking Academy · C++ Institute *(Mar 2026)*
 - 🤖 **Machine Learning** — STEM Minds *(Sep 2024)*
 - 🧠 **Introduction to Artificial Intelligence** — STEM Minds *(Sep 2024)*
 - 🚀 **Discovering Entrepreneurship** — Cisco Networking Academy *(Sep 2024)*
